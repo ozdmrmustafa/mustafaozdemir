@@ -1,0 +1,10 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+nav ul { list-style: none; display: flex; gap: 10px; background: #f4f4f4; padding: 10px; }
+nav ul li a { text-decoration: none; color: #333; }
+main { padding: 20px; }
+footer { text-align: center; padding: 10px; background: #f4f4f4; }
+.project-grid { display: grid; gap: 20px; }
+.project-card { border: 1px solid #ccc; padding: 10px; border-radius: 8px; }
+.profile-container { display: flex; gap: 20px; align-items: center; }
+.profile-pic { width: 150px; border-radius: 8px; }
+.btn-download { display: inline-block; margin-top: 10px; padding: 8px 12px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; }
